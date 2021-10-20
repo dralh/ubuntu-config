@@ -1,0 +1,13 @@
+[user]
+    email = g.carranzacord@gmail.com
+    name = Gerson Carranza
+
+[alias]
+    aa = add -A
+    ci = commit
+    po = push origin HEAD
+    co = checkout
+    st = status
+    graph = log --graph --oneline --decorate --all
+[core]
+	editor = nvim
